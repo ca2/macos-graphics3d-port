@@ -6,3 +6,7 @@
 	path = common
 	url = ../port-common
 	branch = main
+[submodule "graphics"]
+	path = graphics
+	url = ../port-graphics
+	branch = main
