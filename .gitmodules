@@ -10,3 +10,7 @@
 	path = graphics
 	url = ../port-graphics
 	branch = main
+[submodule "graphics3d"]
+	path = graphics3d
+	url = ../macos-port-graphics3d
+	branch = main
