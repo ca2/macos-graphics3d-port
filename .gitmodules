@@ -14,3 +14,7 @@
 	path = graphics3d
 	url = ../macos-port-graphics3d
 	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../port-imaging
+	branch = main
